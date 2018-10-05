@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Atm {
-	
+	//
 	public static final int DEFAULT_BANKNOTE_QUANTITY = 100;
 	private List<BanknoteLot> banknoteLots;
 	
