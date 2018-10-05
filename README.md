@@ -1,4 +1,4 @@
 # AtmSimulation
 AtmSimulation demo
 
-test
+Main class is AtmSimulation.java
