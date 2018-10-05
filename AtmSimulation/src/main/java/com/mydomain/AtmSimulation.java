@@ -10,7 +10,7 @@ public class AtmSimulation {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
-		System.out.println("Running...\n\n");
+		System.out.println("Running.....\n\n");
 		Scanner scanner = new Scanner(System.in);
 
 		System.out.println("Please input initial banknote quantity." + "If not, default quantity is "
